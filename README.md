@@ -19,26 +19,29 @@ Turning imagination into reality 🚀
 ## Creation 🧑‍💻
 
 ### 🌐 Portfolio Website
-[Adarsh Kumar - Portfolio](https://adarshraj6213.github.io/Adarsh-Portfolio/) — Personal portfolio showcasing my projects, skills and achievements. Built with React and modern UI/UX principles.
+[Adarsh Kumar - Portfolio](https://adarshraj6213.github.io/Adarsh-Portfolio/) — Personal portfolio showcasing my projects, skills and achievements. Built with HTML, CSS and JavaScript.
 
-### 🛒 E-Commerce Website
+### 🎬 Movie Recommendation System
+[Movie Recommendation System](https://huggingface.co/spaces/Adarsh676767/movie-recommender) — An AI-powered movie recommendation system that suggests movies based on your preferences. Built with Python and deployed on HuggingFace Spaces.
+
+### 🛒 [E-Commerce Website](#)
+
 404 || PROJECT UNDER CONSTRUCTION
 
 E-Commerce project is a full-stack shopping platform built with MERN Stack. Features include product listing, cart management, user authentication, and payment integration.
 
-### 🤖 AI Project
+### 🤖 [AI Project](#)
+
 404 || PROJECT UNDER CONSTRUCTION
 
 Working on an AI-powered web application using Python and FastAPI.
 
-### ⚡ Full Stack Project
+### ⚡ [Full Stack Project](#)
+
 404 || PROJECT UNDER CONSTRUCTION
 
 A full stack web application built using the MERN Stack. More details coming soon!
-
 > .. working on few more projects 😊
-
----
 
 ## Tech Stack 💻
 
@@ -97,16 +100,6 @@ A full stack web application built using the MERN Stack. More details coming soo
 **Package Manager**
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
----
-```js
-if (codeWorking){
-        while (codeQuality < perfectCode){
-                codeQuality++;
-        }
-}
-// - Adarsh Kumar
-```
 
 ---
 
