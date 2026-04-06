@@ -26,19 +26,19 @@ Turning imagination into reality 🚀
 
 ### 🛒 [E-Commerce Website](#)
 
-404 || PROJECT UNDER CONSTRUCTION
+THIS PROJECT IS UNDER CONSTRUCTION
 
-E-Commerce project is a full-stack shopping platform built with MERN Stack. Features include product listing, cart management, user authentication, and payment integration.
+The E-Commerce project is a full-stack shopping platform built with MERN Stack. Features include product listing, cart management, user authentication, and payment integration.
 
 ### 🤖 [AI Project](#)
 
-404 || PROJECT UNDER CONSTRUCTION
+THIS PROJECT IS UNDER CONSTRUCTION
 
 Working on an AI-powered web application using Python and FastAPI.
 
 ### ⚡ [Full Stack Project](#)
 
-404 || PROJECT UNDER CONSTRUCTION
+THIS PROJECT IS UNDER CONSTRUCTION
 
 A full stack web application built using the MERN Stack. More details coming soon!
 > .. working on few more projects 😊
